@@ -11,6 +11,7 @@ This project focused on assembling and testing a multi-servo robotic arm/gripper
 - Evaluated servo behavior based on torque, size constraints, and response speed
 - Analyzed power requirements and system stability for multi-servo operation
 - Developed Arduino-based control for real-time servo actuation
+- Diagnosed mechanical resistance in A/B/C-axis gear assemblies through repeated disassembly, reassembly, lubrication, and servo testing
 
 ## Technologies
 - Arduino
