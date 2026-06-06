@@ -25,6 +25,9 @@ The gripper, X-axis, Y-axis, and Z-axis are functional with basic servo control.
 
 Future improvements would require reducing gear friction, redesigning the gear assemblies, or using a different actuator/gear mechanism for the rotational axes.
 
+## Team Contributions
+This project involved team collaboration. My main contributions were hardware assembly, servo integration, Arduino-based testing, and mechanical troubleshooting.
+The Python GUI controller was developed by a teammate and used to send serial commands to the Arduino during testing.
 
 ## Notes
 This was primarily a hardware integration and debugging project, so the repository focuses on project documentation and selected control code rather than a full software stack.
