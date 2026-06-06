@@ -25,9 +25,14 @@ The gripper, X-axis, Y-axis, and Z-axis are functional with basic servo control.
 
 Future improvements would require reducing gear friction, redesigning the gear assemblies, or using a different actuator/gear mechanism for the rotational axes.
 
+## Wiring
+The system used an Arduino Mega with two CNC shields to drive the X/Y/Z/A/B/C stepper axes, along with a separate servo connection for the gripper. The wiring diagram is included as a reference for the test setup.
+
 ## Team Contributions
 This project involved team collaboration. My main contributions were hardware assembly, servo integration, Arduino-based testing, and mechanical troubleshooting.
 The Python GUI controller was developed by a teammate and used to send serial commands to the Arduino during testing.
+The CAD images are included as mechanical references for documentation; my work did not focus on original CAD designs.
 
 ## Notes
 This was primarily a hardware integration and debugging project, so the repository focuses on project documentation and selected control code rather than a full software stack.
+The diagram documents the test wiring setup used during development and may not represent a finalized production-ready circuit.
