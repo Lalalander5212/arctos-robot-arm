@@ -1,6 +1,9 @@
 # Arctos Robot Arm
 A hardware-focused robotic arm project involving assembly, servo integration, Arduino-based control, and mechanical debugging.
 
+<img width="1199" height="1312" alt="robot arm image" src="https://github.com/user-attachments/assets/c881d337-2616-49ec-8981-87941304099c" />
+
+
 ## Overview
 This project focused on assembling and testing a multi-servo robotic arm/gripper system for object manipulation. The main work involved integrating servo motors, troubleshooting mechanical alignment and motion issues, and developing basic Arduino-based control for real-time servo actuation.
 
