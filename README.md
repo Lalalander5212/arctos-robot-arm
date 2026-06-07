@@ -42,6 +42,7 @@ Future improvements would require reducing gear friction, redesigning or replaci
 ## Wiring
 The system used an Arduino Mega with two CNC shields to drive the X/Y/Z/A/B/C stepper axes, along with a separate servo connection for the gripper. The wiring diagram is included as a reference for the test setup.
 <img src="docs/Wiring_diagram.png" alt="Wiring diagram" width="700">
+
 Note: The diagram documents the test wiring setup used during development and may not represent a finalized production-ready circuit.
 
 ## Team Contributions
